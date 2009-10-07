@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<agenda>
+	<contato gravado="SIM" id="01">
+		<nome>Maria da Silva</nome>
+		<endereco>Rua Ficticia, 32, Bairro Ficticio, Ficticia City
+		</endereco>
+		<telefone>21 - 32658978</telefone>
+		<email>maria.silva@provedor.com.br</email>
+	</contato>
+	<contato gravado="SIM" id="03">
+		<nome>Pedro da Silva</nome>
+		<endereco>Rua Imaginária, 23, Bairro Imaginário, Imaginária City
+		</endereco>
+		<telefone>11 99999999</telefone>
+		<email>pedro.silva@provedor.com.br</email>
+	</contato>
+	<contato gravado="SIM" id="04">
+		<nome>Tiago da Silva</nome>
+		<endereco>Endereço qualquer</endereco>
+		<telefone>27 - 65237894</telefone>
+		<email>tiago.silva@provedor.com.br</email>
+	</contato>
+</agenda>
